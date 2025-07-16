@@ -1,6 +1,0 @@
-C:\Users\Rug4lo\Desktop\Cheats\Rug4lo64\Rug4lo64\bin\Debug\Rug4lo64.dll
-C:\Users\Rug4lo\Desktop\Cheats\Rug4lo64\Rug4lo64\bin\Debug\Rug4lo64.pdb
-C:\Users\Rug4lo\Desktop\Cheats\Rug4lo64\Rug4lo64\obj\Debug\Rug4lo64.csproj.AssemblyReference.cache
-C:\Users\Rug4lo\Desktop\Cheats\Rug4lo64\Rug4lo64\obj\Debug\Rug4lo64.csproj.CoreCompileInputs.cache
-C:\Users\Rug4lo\Desktop\Cheats\Rug4lo64\Rug4lo64\obj\Debug\Rug4lo64.dll
-C:\Users\Rug4lo\Desktop\Cheats\Rug4lo64\Rug4lo64\obj\Debug\Rug4lo64.pdb
