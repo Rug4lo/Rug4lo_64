@@ -346,7 +346,7 @@ namespace Rug4lo_64
         }
 
         //
-        // Start of the normal write functions
+        // Start of the normal write functions (These functions return only a boolean value )
         //
 
         public bool WriteShort(IntPtr address, short data) // Write the data with 16 bits
