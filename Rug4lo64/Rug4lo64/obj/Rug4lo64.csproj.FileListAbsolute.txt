@@ -1,6 +1,0 @@
-Rug4lo64\Rug4lo64\bin\Debug\Rug4lo64.dll
-Rug4lo64\Rug4lo64\bin\Debug\Rug4lo64.pdb
-Rug4lo64\Rug4lo64\obj\Debug\Rug4lo64.csproj.AssemblyReference.cache
-Rug4lo64\Rug4lo64\obj\Debug\Rug4lo64.csproj.CoreCompileInputs.cache
-Rug4lo64\Rug4lo64\obj\Debug\Rug4lo64.dll
-Rug4lo64\Rug4lo64\obj\Debug\Rug4lo64.pdb
