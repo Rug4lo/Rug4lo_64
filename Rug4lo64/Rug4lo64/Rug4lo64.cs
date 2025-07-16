@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Data;
 using System.Diagnostics;
 using System.Linq;
@@ -444,7 +444,7 @@ namespace Rug4lo_64
             }
         }
 
-        public bool WriteHexString(IntPtr address, int offset, string Hexbytes) // Write the data from a string with hexadecimal data and a offset
+        public bool WriteHexString(IntPtr address, int offset, string Hexbytes) // Write the data from a string with hexadecimal data and adding an offset
         {
             try
             {
